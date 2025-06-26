@@ -62,6 +62,6 @@ Big thanks to [J4M3SX019][J4M3SX019] for providing the Windows 11 DWM fix needed
 
 [J4M3SX019]: https://virtualcustoms.net/member.php/332654-J4M3SX019
 
-[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/Ecchi-UI-X2-Theme-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip
+[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/Ecchi-UI-X2-Theme-for-Windows-11-23H2/archive/refs/heads/main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
