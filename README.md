@@ -2,10 +2,20 @@
 
 ![][PREVIEW]
 
-This theme was built using the UI-X2 MSSTYLES for Windows 11 23H2+ by [devillnside][DEVILLNSIDE]   
-You can find the UI-X2 theme here: [UI-X2 Theme for Windows 11 23H2+][ORIGINAL]
+> [!NOTE]
+> This theme was built using the UI-X2 MSSTYLES for Windows 10 19H1-22H2 by [devillnside][DEVILLNSIDE]   
+> 
+> You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGINAL]
 
-Big thanks to [J4M3SX019][J4M3SX019] for providing the Windows 11 DWM fix needed to get this updated to Windows 11!
+
+> [!IMPORTANT]
+> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
+> Patching your system files **CAN** and **WILL** brick your system if done wrong.
+>
+> We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
+
+> [!NOTE]
+> Big thanks to [J4M3SX019][J4M3SX019] for providing the Windows 11 DWM fix needed to get this updated to Windows 11!
 
 #### Requirements
 
@@ -28,7 +38,7 @@ Big thanks to [J4M3SX019][J4M3SX019] for providing the Windows 11 DWM fix needed
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[PREVIEW]: https://the-back-room.info/assets/images/themes/nsfw/msstyle/ECCHI-UI-X2.png
+[PREVIEW]: https://github.com/user-attachments/assets/f8c58fa8-07d7-4176-a86a-85f4b80781b9
 
 [WINDHAWK]: https://windhawk.net/
 
